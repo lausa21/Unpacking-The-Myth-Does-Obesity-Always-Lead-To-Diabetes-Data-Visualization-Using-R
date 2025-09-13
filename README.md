@@ -1,5 +1,5 @@
 # 📊 Unpacking The Myth: Does Obesity Always Lead To Diabetes? 
-This project utilizes the **R programming language** to analyze and visualize the complex relationship between obesity and the prevalence of diabetes. Using the Pima Indians Diabetes Database, this analysis seeks to answer the critical question: "Does obesity always lead to diabetes?"
+This group project, completed as part of our Data Mining and Visualization course in the second semester, explores the intricate relationship between obesity and diabetes prevalence using the **R programming language**. Leveraging the **Pima Indians Diabetes Database**, we aim to address a key question: _“Does obesity necessarily lead to diabetes?”_
 
 The project unpacks this common myth by exploring multiple contributing factors. The analysis concludes that while obesity is a significant risk factor, **it is not a definitive cause**. Diabetes is a multifactorial condition heavily influenced by a combination of genetics, age, lifestyle choices, and other physiological factors. The final output is an infographic and an interactive Shiny application that clearly communicate these findings.
 
