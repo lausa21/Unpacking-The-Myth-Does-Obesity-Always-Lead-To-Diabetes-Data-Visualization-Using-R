@@ -30,3 +30,12 @@ The analysis, summarized in the infographic, reveals several key insights:
     * A clear correlation exists between the number of pregnancies and a diabetes diagnosis. The analysis shows an average of **5 pregnancies** for diabetic women, compared to an average of **3** for non-diabetic women.
 5.  **Global Health Context**
     * To underscore the project's relevance, the infographic highlights that diabetes was the **8th leading cause of death worldwide** in 2018, emphasizing the need for better public understanding of its risk factors.
+  
+---
+
+### 🖋 Author
+* Aquilla Kyne Sudiro
+* Evelyn Caristy Untariady
+* Jeffrey Kurniawan
+* Laurel Evelina Widjaja
+* Ni Komang Gayatri Kusuma Wardhani
